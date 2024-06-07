@@ -1,2 +1,3 @@
-# stripe-connect-development-notes
-A personal compendium of Stripe Connect development guides and notes. 
+# Stripe Connect Development Notes
+
+This repository is a curated collection of guides and notes focused on Stripe Connect development.

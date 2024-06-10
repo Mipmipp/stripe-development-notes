@@ -158,7 +158,8 @@ export const StripeConnectRedirectHandler = (): JSX.Element => {
 };
 
 ```
-9) Flow diagram
+9) Diagram
+> Basic diagram. Remember to adjust the flow according to the documentation and needs of your project.
 
-
-
+### **Flow Diagram**
+![stripe-connected-flow-diagram](https://github.com/Mipmipp/stripe-connect-development-notes/assets/106466126/8674b2e5-cc2d-4127-9bf3-9f570f96ba90)
